@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Aditya Gaurav 👋
 
-<!--
-**spray8x/spray8x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Branch:** CSE Core | **Year:** 1st Year (Batch 2029) | **VIT Bhopal**
 
-Here are some ideas to get you started:
+I'm a first-year CSE student interested in Machine Learning and systems programming.
+Currently learning the fundamentals of AI/ML and hoping to build projects that sit at 
+the intersection of data and real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [bookbot](https://github.com/spray8x/bookbot) — A basic Python project that checks characters and words in books in .txt formats
+- [finance-manager](https://github.com/spray8x/finance-manager) — A python project for handling your expenses in streamlit
+- [media-bias-india](https://github.com/spray8x/media-bias-india) — WIP
+- [focustime](https://github.com/spray8x/focustime) — WIP
+- [asteroids](https://github.com/spray8x/asteroids) — WIP
+- [CodeTrack](https://github.com/spray8x/CodeTrack) — CLI problem tracker
+
+## What I hope to learn
+I want to go from understanding ML theory to actually deploying models that do something useful.
