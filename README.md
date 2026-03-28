@@ -1,4 +1,4 @@
-# Hi, I'm Aditya Gaurav 👋
+# Hi, I'm Aditya Gaurav 
 
 **Branch:** CSE Core | **Year:** 1st Year (Batch 2029) | **VIT Bhopal**
 
